@@ -8,10 +8,10 @@ I live in Thailand.<br>
 - 🖥️  See my portfolio at [Yosiket Site](http://yosiket.xyz/)
 
 ## My Skills
+
 >[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,php,html,css,js,ts,vue,py)](https://skillicons.dev)
 
-<details>
-  <summary>Github Stats ⚡⚡⚡</summary>
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=tandpfun&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tandpfun&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
+### Github Stats ⚡
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=broverz&theme=blueberry&count_private=true&hide_border=true&line_height=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=broverz&layout=compact&theme=blueberry&count_private=true&hide_border=true)
