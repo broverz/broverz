@@ -1,4 +1,3 @@
-<p align="center"><img src="https://aniyuki.com/wp-content/uploads/2022/08/aniyuki-hello-30.gif" width="125" style="border-radius: 1vh;"></p>
 <h1 align="center" style="color: #fff; font-size: 4vh; font-weight: 600; padding: .5px 25px;">Hello Everyone! 👋</h1>
 
 **I'm Brover** - I'm Fullstack developer. <br>
