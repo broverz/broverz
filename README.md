@@ -1,5 +1,3 @@
-<h1 align="center" style="color: #fff; font-size: 4vh; font-weight: 600; padding: .5px 25px;">Hello Everyone! 👋</h1>
-
 **I'm Brover** - I'm Fullstack developer. <br>
 I live in Thailand.<br>
 
