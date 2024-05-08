@@ -21,6 +21,6 @@ const Ysx = {
 
 <div style="width:50%">
     <h1>Discord Status</h1>
-    <img src="https://discord-readme-badge.vercel.app/api?id=810310312904884475" style="min-width: 100%" align="right">
+    <img src="https://discord-readme-badge.vercel.app/api?id=810310312904884475" style="min-width: 100%" align="left">
 </div>
 </div>
