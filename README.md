@@ -1,6 +1,4 @@
-<img src="https://img5.pic.in.th/file/secure-sv1/k_on__header_by_lxqa_de1getl-fullview.jpeg" style="min-width: 100%; max-height: 200px; object-fit: cover; border-radius: 10px;" />
-
-# <center>Hi 👋 My name is Yosiket</center>
+# <center>Hi 👋 My name is Gohan</center>
 <center><a href="https://www.instagram.com/brover.zzz/">Instagram For Contact.</a></center>
 
 ```js
