@@ -1,5 +1,5 @@
 ```js
-const Ysx = {
+let Broverz = {
     name: "Gohan",
     education: "Senior High School at SSWK School",
     languages: ["PHP", "Javascript", "Typescript", "Golang"]
