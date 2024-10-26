@@ -6,7 +6,7 @@ let Broverz = {
 }
 ```
 
-# Contact Me:
+# Contact Me
 
 ![discord](https://discord.c99.nl/widget/theme-4/810310312904884475.png)
 
