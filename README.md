@@ -1,7 +1,7 @@
 ```js
 let Broverz = {
     name: "Gohan",
-    education: "Senior High School at SSWK School",
+    education: "Senior High School at Surasak Witthayakhom School",
     languages: ["PHP", "Javascript", "Typescript", "Golang"]
 }
 ```
