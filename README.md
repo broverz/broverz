@@ -1,8 +1,8 @@
 ```js
 let Broverz = {
-    name: "Gohan",
+    nickname: "Gohan",
     education: "Senior High School at Surasak Witthayakhom School",
-    languages: ["PHP", "Javascript", "Typescript", "Golang"]
+    languages: ["Html", "Css&Sass", "PHP", "Javascript", "Typescript"]
 }
 ```
 
