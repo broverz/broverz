@@ -6,7 +6,7 @@ let Broverz = {
     webTechnologies: ["HTML", "CSS", "Sass"],
     serverSkills: {
         backend: ["Node.js", "PHP", "Express.js"],
-        databases: ["MySQL", "PostgreSQL"],
+        databases: ["MySQL"],
         serverManagement: ["NGINX", "Apache", "Docker"],
         cloudPlatforms: ["VPS", "Nextcloud", "Cloudflare"]
     }
