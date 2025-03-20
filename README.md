@@ -2,7 +2,14 @@
 let Broverz = {
     nickname: "Gohan",
     education: "Senior High School at Surasak Witthayakhom School",
-    languages: ["Html", "Css&Sass", "PHP", "Javascript", "Typescript"]
+    programmingLanguages: ["JavaScript", "TypeScript", "PHP"],
+    webTechnologies: ["HTML", "CSS", "Sass"],
+    serverSkills: {
+        backend: ["Node.js", "PHP", "Express.js"],
+        databases: ["MySQL", "PostgreSQL"],
+        serverManagement: ["NGINX", "Apache", "Docker"],
+        cloudPlatforms: ["VPS", "Nextcloud", "Cloudflare"]
+    }
 }
 ```
 
@@ -10,5 +17,5 @@ let Broverz = {
 
 ![discord](https://discord.c99.nl/widget/theme-4/810310312904884475.png)
 
-- Instagram : [brover.zzz](https://www.instagram.com/brover.zzz/)
+- Instagram : [Brover.zzz](https://www.instagram.com/brover.zzz/)
 - Discord : [Yosiket](https://discord.gg/jNdCsMJcvc)
