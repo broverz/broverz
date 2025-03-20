@@ -4,8 +4,9 @@ let Broverz = {
     education: "Senior High School at Surasak Witthayakhom School",
     programmingLanguages: ["JavaScript", "TypeScript", "PHP"],
     webTechnologies: ["HTML", "CSS", "Sass"],
-    serverSkills: {
-        backend: ["Node.js", "PHP", "Express.js"],
+    fullStackDevelopment: {
+        frontend: ["Next.js", "React.js", "Tailwind CSS"],
+        backend: ["Node.js", "Express.js", "PHP"],
         databases: ["MySQL"],
         serverManagement: ["NGINX", "Apache", "Docker"],
         cloudPlatforms: ["VPS", "Nextcloud", "Cloudflare"]
